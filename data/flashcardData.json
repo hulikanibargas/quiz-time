@@ -1,0 +1,32 @@
+{
+    "data": {
+        "title": "JavaScript Flashcards",
+        "cards": [
+            {
+                "question": "What has a head, a tail, is brown and has no legs",
+                "hint": "it's not an animal",
+                "answer": "A penny"
+            },
+            {
+                "question": "What comes in a minute, twice in a moment, but never in a thousand years",
+                "hint": "Don't think in numbers",
+                "answer": "The letter 'M'"
+            },
+            {
+                "question": "David's father has three sons : Snap, Crackle and _____ ?",
+                "hint": "Read the question again",
+                "answer": "David"
+            },
+            {
+                "question": "I am not alive, but I grow; I don't have lungs, but I need air; I don't have a mouth, but water kills me. What am I?",
+                "hint": "Think: element",
+                "answer": "Fire"
+            },
+            {
+                "question": "A man was just doing his job when his suit was torn. Why did he die three minutes later?",
+                "hint": "Think 'Beyond' your imagination",
+                "answer": "He was an Astronaut"
+            }
+        ]
+    }
+}
